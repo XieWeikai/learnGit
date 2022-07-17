@@ -5,7 +5,9 @@ int main(){
 
 	printf("hello,xwk!\n");
 
-	printf("hello,dogdog!\n");
+	printf("hello,dogdog!\n")
+
+	printf("hello,wql!\n");
 
 	return 0;
 }
