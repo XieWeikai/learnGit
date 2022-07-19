@@ -7,7 +7,7 @@ int main(){
 
 	printf("hello,dogdog!\n")
 
-	printf("hello,wql!\n");
+	printf("hello,wql!!!!!!!!!!!!!!!\n"); // 注意我在master分支改了这一行
 
 	int a,b;
 	printf("enter two number:");
