@@ -6,9 +6,9 @@ int main(){
 	
 	printf("hello,xwk!????????????????\n"); // 在master分支改了这一行
 	printf("hello,xwk!!!!!!!!!!!!!\n"); // 在新的test分支修改了这一行
-	printf("Bobo bro, daisuki dayo!!!!!\n") 
+	printf("Bobo bro, daisuki dayo!!!!!\n");
 	
-	printf("hello,dogdog!\n")
+	printf("hello,dogdog!\n"); 
 
 	printf("hello,wql!!!!!!!!!!!!!!!\n"); // 注意我在master分支改了这一行
 
